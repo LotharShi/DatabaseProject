@@ -1,4 +1,4 @@
-##简单的RPG角色管理系统 
+## 简单的RPG角色管理系统 
 
 数据库课程小设计。
 
@@ -39,21 +39,21 @@ Have FUN xD.
 
 ### 数据表
 
-![image-20210605105140464](/Users/apple/Library/Application Support/typora-user-images/image-20210605105140464.png)
+![image-20210605105140464](./imgs/1.png)
 
 由上到下分别是：装备，道具，NPC，角色，职业，任务。
 
-![image-20210605111437213](/Users/apple/Library/Application Support/typora-user-images/image-20210605111437213.png)
+![image-20210605111437213](./imgs/2.png)
 
-![image-20210605111454192](/Users/apple/Library/Application Support/typora-user-images/image-20210605111454192.png)
+![image-20210605111454192](./imgs/3.png)
 
 ……
 
 ### 界面
 
-![image-20210605105731658](/Users/apple/Library/Application Support/typora-user-images/image-20210605105731658.png)
+![image-20210605105731658](./imgs/4.png)
 
-![image-20210605105848740](/Users/apple/Library/Application Support/typora-user-images/image-20210605105848740.png)
+![image-20210605105848740](./imgs/5.png)
 
 ### 功能
 
